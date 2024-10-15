@@ -1,0 +1,1 @@
+export const EVENT_SEARCH_PATH = "search.json"
