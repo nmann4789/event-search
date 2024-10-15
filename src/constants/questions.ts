@@ -13,5 +13,5 @@ export const question3: Question = {
 }
 
 export const question4: Question = {
-  text: "What kind of event would you like to see"
+  text: "What kind of event would you like to see?"
 }

@@ -66,6 +66,7 @@ interface EventResult {
 }
 
 interface GoogleEventsApiResponse {
+  error?: string;
   search_metadata: SearchMetadata;
   search_parameters: SearchParameters;
   search_information: SearchInformation;
